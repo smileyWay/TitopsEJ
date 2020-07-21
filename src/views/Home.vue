@@ -8,6 +8,7 @@
             <span slot="title" :class="{active: index==1, normal: !index==1}">导航1</span>
           </el-menu-item>
           <el-menu-item index="2">
+						
             <span slot="title" :class="{active: index==2, normal: !index==2}">导航2</span>
           </el-menu-item>
           <el-menu-item index="3">
